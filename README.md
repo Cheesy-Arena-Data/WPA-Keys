@@ -5,7 +5,7 @@
 > DO NOT CONNECT ANYTHING WIRELESSLY!!!!
 
 ```
-cSKyyDovUUNh2ComWndDuU6
+5c5pDVWwrJ80G7LCDcBGv6D
 ```
 
 > [!NOTE]
@@ -18,7 +18,7 @@ cSKyyDovUUNh2ComWndDuU6
   # More Keys
   
   ```
-  5c5pDVWwrJ80G7LCDcBGv6D
+  cSKyyDovUUNh2ComWndDuU6
   ```
   
   ```
